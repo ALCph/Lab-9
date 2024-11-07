@@ -111,6 +111,9 @@ print(f'The total number of correct answers is: {correct_answer} out of 5')
 
 #3.) File decryption and codes
 # I wasn't sure if you wanted us to do this problem
+# You mentioned maybe not this one since it involved some .txt documents
+# Forgot to ask for clarification during the lecture.
+# If you did want us to, then I'll take the points deduction
 #==============================================
 
 #4.) Unique words
